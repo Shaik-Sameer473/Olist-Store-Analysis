@@ -19,3 +19,14 @@ The objective of the Olist Store Analysis Project is to explore and analyze the 
 
 ## Dashboard
 QQQQ![Screenshot 2025-03-23 130413](https://github.com/user-attachments/assets/51f46a95-91fe-4567-8e93-dc0cf03640ea)
+
+## Project Insights
+- Certain categories like bed_bath_table, health_beauty, and sports_leisure consistently showed high sales volume, indicating strong customer demand.
+- Most customers preferred making purchases during promotional seasons, and repeat purchases were higher among customers with positive review scores.
+- Late deliveries were a major reason for low customer ratings — sellers with faster delivery times had significantly better review scores and repeat orders.
+- A small percentage of sellers contributed to a large portion of total sales, highlighting a classic 80/20 (Pareto) pattern in seller performance.
+- The majority of high-value orders came from urban regions like São Paulo and Rio de Janeiro, which can be targeted for future marketing efforts.
+
+## Final Conclusion
+The Olist Store Analysis provided valuable insights into customer behavior, seller performance, product demand, and logistics efficiency. By leveraging data visualization and analytical tools, we identified key growth opportunities such as focusing on high-performing product categories, improving delivery times, and targeting urban markets. This project demonstrates how data-driven decisions can enhance customer satisfaction, streamline operations, and boost overall sales performance in the e-commerce sector.
+
